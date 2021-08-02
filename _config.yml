@@ -4,7 +4,7 @@ timezone: America/Los_Angeles
 collections:
   posts:
     title: Posts
-    output: false
+    output: true
   uploads:
     title: Uploads
     output: false
