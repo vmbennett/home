@@ -1,5 +1,5 @@
 ---
-title: VictorBennett
+title: Victor Bennett
 layout: page
 ---
 
