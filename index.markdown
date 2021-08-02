@@ -3,7 +3,7 @@ title: Victor Bennett
 layout: default
 ---
 
-Text can be **bold**, *italic*, catte, or \~\~strikethrough\~\~.
+Text can be **bold**, *italic*, catte, doge, or \~\~strikethrough\~\~.
 
 [Link to another page](./another-page.html).
 
